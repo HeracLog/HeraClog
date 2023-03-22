@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TortoiseShell04
 - 👀 I’m interested in Game Development, Art and Music
-- 🌱 I’m currently learning C#, Java, Unity and C++
+- 🌱 I’m currently learning Python, C++ and Java
 - 📫 How to reach me Tumblr @tortoisesshell
 - My alt AverageMidDeveloper
 
