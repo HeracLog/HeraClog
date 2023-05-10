@@ -3,4 +3,4 @@
 -I like music ♬ and art 🖌️<br>
 -That's about it!<br>
 
-![This is fine dog](https://s1.r29static.com/bin/entry/ae3/340x283,85/1877048/image.webp)
+![This is fine dog](https://media.npr.org/assets/img/2023/01/14/this-is-fine_custom-dcb93e90c4e1548ffb16978a5a8d182270c872a9-s800-c85.webp)
