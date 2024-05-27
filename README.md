@@ -16,7 +16,9 @@ Almost forgot about this part 😅
 * LSTM, a sequence to sequence text generation model!
 * Corrector Network, using neural networks in auto correct through various string similarity algorithms!
 * Sign Language AI, using CNN to translate letters from ASL to English.
-* NeoBatcher, an app to read manga or watch anime, not that related to AI but I spent a fair bit working on it!!
+* NeoBatcher, an app to read manga or watch anime, not that related to AI but I spent a fair bit of time working on it!!
+
+I have more projects but these are the ones I am most proud of 😌
 
 <br>
 
