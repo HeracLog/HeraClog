@@ -11,7 +11,7 @@ Hello!! I am Youssef Salah, a 19-year old computer science student at Alexandria
 
 So yeah if you ever feel like this mentally ill nerd is interesting (I know I am, thank you very much 😌), don't hesitate to hit me up and I'll explain finding optimization solutions in complex search spaces to you or yap for a few hours about greek literature 🤓! 
 
-## Projects
+## Projects 👨🏻‍💻
 Almost forgot about this part 😅
 * LSTM, a sequence to sequence text generation model!
 * Corrector Network, using neural networks in auto correct through various string similarity algorithms!
