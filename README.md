@@ -1,5 +1,5 @@
 ## About me 😃
-Welcome stranger to my github profile!, I'd offer you a drink but you won't be here for long (no loitering!!). <br>
+Welcome to my github profile stranger!, I'd offer you a drink but you won't be here for long (no loitering!!). <br>
 Hello!! I am Youssef Salah, a 19-year old computer science student at Alexandria University, majoring in Intelligent Systems 🧠, I love both AI and the math behind it (especially the math, if you know me irl you are probably sick of it lmao), I have a passion for teaching others and connecting with them, which is part of the reason why I plan on pursuing post graduate studies!!
 ## Fields of Interest 💡
 * 👨‍💻 Programming in general, designing algorithms has always been a passion of mine!
