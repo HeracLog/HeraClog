@@ -17,4 +17,6 @@ Almost forgot about this part 😅
 * Corrector Network, using neural networks in auto correct through various string similarity algorithms!
 * Sign Language AI, using CNN to translate letters from ASL to English.
 * NeoBatcher, an app to read manga or watch anime, not that related to AI but I spent a fair bit working on it!!
+
+<br>
 ![This is fine dog](https://media.npr.org/assets/img/2023/01/14/this-is-fine_custom-dcb93e90c4e1548ffb16978a5a8d182270c872a9-s800-c85.webp)
