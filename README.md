@@ -9,7 +9,7 @@ Hello!! I am Youssef Salah, a 19-year old computer science student at Alexandria
 * 🎶 Poetry and Music, I would share my work with you, but I write REALLY sappy stuff. If anyone ever saw the stuff I write, I would be in a mental asylum (kinda suprised I have not been commited to one yet).
 * 🤓 Last but certainly not least, MATHS (I know mentioned it before BUT GOD I LOVE MATHS!!)
 
-So yeah if you ever feel like this mentally ill nerd is interesting (I know I am, thank you very much 😌), don't hesitate to hit me up and I'll explain finding optimization solutions in complex search spaces to you or yap for a few hours about greek literature 🤓! 
+So yeah if you ever feel like this mentally ill nerd is interesting (I know I am, thank you very much 😌), don't hesitate to hit me up and I'll explain finding optimization solutions in complex search spaces or yap for a few hours about greek literature 🤓! 
 
 ## Projects 👨🏻‍💻
 Almost forgot about this part 😅
