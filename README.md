@@ -6,7 +6,7 @@ Hello!! I am Youssef Salah, a 19-year old computer science student at Alexandria
 * 📊 Optimization, whether it is constrained, linear, non-linear, I love it (yes I am nerd 🤓, deal with it).
 * 🧠 Artifical Intelligence, despite the magic behind it being gone since I know how it works; It is still one of my favourite topics!!
 * 📖 Writing, it has always been a passion of mine, mapping my ideas and creativity in the form of words will never not be fun!
-* 🎶 Poetry and Music, I would share my work with you, but I write REALLY sappy stuff. If anyone ever saw the stuff I write, I would be in a mental asylum (kinda suprised I have not been commited to one yet).
+* 🎶 Poetry and Music, I would share my work with you, but let's not go there.... If anyone ever saw the stuff I write, I would be in a mental asylum (kinda suprised I have not been commited to one yet).
 * 🤓 Last but certainly not least, MATHS (I know mentioned it before BUT GOD I LOVE MATHS!!)
 
 So yeah if you ever feel like this mentally ill nerd is interesting (I know I am, thank you very much 😌), don't hesitate to hit me up and I'll explain finding optimization solutions in complex search spaces or yap for a few hours about greek literature 🤓! 
