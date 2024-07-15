@@ -1,5 +1,5 @@
 ## About me 😃
-Welcome fellow mentally ill distinguished individual! <br>
+Welcome fellow mentally ill distinguished individual! 
 Here are a bunch of stuff I wrote, I do AI and Maths so yeah I guess.<br>
 <div align="center" width="50">
 
