@@ -12,7 +12,7 @@ Here are a bunch of stuff I wrote, I do AI and Maths so yeah I guess.<br>
 <div align="center" width="50">
 
 
-| <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tortoiseshell04&show_icons=true&theme=transparent&hide=prs,contribs&hide_border=true"></a> | <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortoiseshell04&theme=transparent&layout=compact&hide_border=true&size_weight=1&count_weight=1"></a> |
+| <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=harclog&show_icons=true&theme=transparent&hide=prs,contribs&hide_border=true"></a> | <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harclog&theme=transparent&layout=compact&hide_border=true&size_weight=1&count_weight=1"></a> |
 | ----------- | ----------- |
 
 </div>
